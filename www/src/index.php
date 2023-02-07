@@ -5,8 +5,10 @@
     </head>
     <body>
         <div class="container-fluid">
-            <h1 class="text-center">Немного заданий на великих началах. Флаги находятся в очевидных местах, просто нужно знать в каких:-)</h1>
-        </div>
+	<h1 class="text-center">Таски на знание инъекций баз данных SQL. От простого к сложному. 
+              Где располагаются флаги? Вам предстоит узнать:-)
+            </h1>	
+	</div>
 
         <br>
         <br>
@@ -55,7 +57,7 @@
                 <h3 class="panel-title">Level 3 - Время денег</h3>
               </div>
               <div class="panel-body">
-                Время платить по счетам. Они наконец заплатят... 
+                Время платить по счетам. Они на худой конец заплатят... 
               </div>
          <div class="panel-footer">
     <a href="/level3.php" target="_blank" class="btn btn-warning">Start here</a>
